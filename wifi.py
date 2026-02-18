@@ -1,7 +1,7 @@
-import subprocess
-import sys
-import getpass
 import time
+import getpass
+import sys
+import subprocess
 
 
 def get_available_networks():
